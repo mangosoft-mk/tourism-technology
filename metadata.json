@@ -1,0 +1,5 @@
+{
+  "name": "Antalya Vacation Booker",
+  "description": "A conversational AI chatbot that helps users plan and book their dream vacation to Antalya, Turkey by asking a series of questions to gather booking details.",
+  "requestFramePermissions": []
+}
